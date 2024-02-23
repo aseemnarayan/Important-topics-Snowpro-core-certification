@@ -1,0 +1,26 @@
+Important Topics-
+
+Snowflake Architecture(DDL, DML, Snowflake editions, Cloud providers, Snowflake SQL client and Snowflake layers)
+Micro-partitions & Clustering keys(micro-partitions)
+Tables and types
+Views and types
+Stages and types
+Copy command, Get and Put
+Snowpipe
+Warehouses(Scaling policy, Params that you can configure, Minimum edition for Multi-cluster warehouses and Multi-warehouse modes)
+Resource Monitors(Params, Types of actions)
+Cache
+Storage Features(Fail safe and Time travel)
+Roles
+Shares
+Stored Procedures & UDFs
+Tasks
+Transactions
+Streams
+File Formats
+Sequences
+Ecosystem, Compliance, Data Marketplace & Security
+Grants and other useful commands
+Data Types
+Tag and Security
+Query profile
